@@ -1,0 +1,10 @@
+C:\Users\speer\Desktop\FinalPart2\FinalPart2\bin\Debug\FinalPart2.exe.config
+C:\Users\speer\Desktop\FinalPart2\FinalPart2\bin\Debug\FinalPart2.exe
+C:\Users\speer\Desktop\FinalPart2\FinalPart2\bin\Debug\FinalPart2.pdb
+C:\Users\speer\Desktop\FinalPart2\FinalPart2\obj\Debug\FinalPart2.Form1.resources
+C:\Users\speer\Desktop\FinalPart2\FinalPart2\obj\Debug\FinalPart2.Properties.Resources.resources
+C:\Users\speer\Desktop\FinalPart2\FinalPart2\obj\Debug\FinalPart2.csproj.GenerateResource.cache
+C:\Users\speer\Desktop\FinalPart2\FinalPart2\obj\Debug\FinalPart2.csproj.CoreCompileInputs.cache
+C:\Users\speer\Desktop\FinalPart2\FinalPart2\obj\Debug\FinalPart2.exe
+C:\Users\speer\Desktop\FinalPart2\FinalPart2\obj\Debug\FinalPart2.pdb
+C:\Users\speer\Desktop\FinalPart2\FinalPart2\obj\Debug\FinalPart2.csprojAssemblyReference.cache
